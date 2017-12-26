@@ -1,0 +1,14 @@
+module pc (clk,rst,data,result);
+	input	clk;
+	input	rst;
+	input	[31:0]	data;
+	output	reg	[31:0]	result;
+
+	always @(negedge clk)
+	begin
+		if(rst)
+			result[31:0] <= {32'h0000_3000};
+		else
+			result <= data;
+	end
+endmodule

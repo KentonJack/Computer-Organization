@@ -1,0 +1,17 @@
+module imtest();
+	reg [11:2] addr;
+	wire [31:0] im;
+	initial begin
+		addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+		#100 addr = 10'b0000000000;
+	end
+	im_4k im_4k(addr,im);
+endmodule

@@ -1,0 +1,99 @@
+E:/modelsim/examples/dm_4k.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/dm_4k.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dm_4k
+
+Top level modules:
+	dm_4k
+
+} {} {}} E:/modelsim/examples/registers.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/registers.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module registers
+
+Top level modules:
+	registers
+
+} {} {}} E:/modelsim/examples/cpu.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/cpu.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} E:/modelsim/examples/testbench.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/testbench.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} E:/modelsim/examples/pc.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/pc.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} E:/modelsim/examples/im_4k.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/im_4k.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module im_4k
+
+Top level modules:
+	im_4k
+
+} {} {}} E:/modelsim/examples/mux2.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/mux2.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} E:/modelsim/examples/mux3.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/mux3.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} E:/modelsim/examples/aluctrl.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/aluctrl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module aluctrl
+
+Top level modules:
+	aluctrl
+
+} {} {}} E:/modelsim/examples/datapath.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/datapath.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} E:/modelsim/examples/ctrtest.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/ctrtest.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ctrtest
+
+Top level modules:
+	ctrtest
+
+} {} {}} E:/modelsim/examples/control.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/control.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} E:/modelsim/examples/ext.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/ext.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ext
+
+Top level modules:
+	ext
+
+} {} {}} E:/modelsim/examples/alu.v {1 {vlog -work work -vopt -stats=none E:/modelsim/examples/alu.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}

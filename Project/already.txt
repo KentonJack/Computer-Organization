@@ -1,0 +1,4 @@
+alu
+im_4k
+control
+pc
